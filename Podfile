@@ -5,6 +5,7 @@ target 'Instagram' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
   pod 'Parse'
-  pod 'AlamofireImage'  
+  pod 'AlamofireImage'
+  pod 'MessageInputBar'   
 
 end
